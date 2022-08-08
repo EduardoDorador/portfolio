@@ -53630,7 +53630,7 @@ A.EB.prototype={
 P(a,b){var s=this.e,r=!s,q=r&&!0,p=new A.fe(r,q,this.c,null)
 return new A.BP(s?1:0,!1,p,null)}}
 A.Bu.prototype={
-P(a,b){return new A.t8(B.Cq,"Flutter Demo",A.a92(null,B.BU),null)}}
+P(a,b){return new A.t8(B.Cq,"Eduardo DORADOR - Portfolio",A.a92(null,B.BU),null)}}
 A.tY.prototype={
 aC(){return new A.HI([!1,!1,!1,!1],B.n)}}
 A.HI.prototype={
