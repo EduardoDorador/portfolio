@@ -61783,7 +61783,7 @@ n=m
 return new A.wx(new A.Fk(new A.xF([r,q,p],m),new A.O(k,1000),m),A.aqw(new A.E0(new A.a0f(!0,!0,!0,s,o),m,B.aJ,!1,this.d,!1,n,!1,m,4,B.ao,B.F_,m,B.ac,m),!0),m)}}
 A.oV.prototype={
 O(a,b){var s,r,q=null,p=b.T(t.w).f.a.a
-if(p>=2560)p=2560
+if(p>=2560)p=1920
 else if(p>=1920)p=1920
 else if(p>=1366)p=1366
 else if(p>=1024)p=1024
@@ -61800,7 +61800,7 @@ return null},
 $S:0}
 A.B_.prototype={
 O(a,b){var s,r,q,p,o,n,m,l,k=null,j=b.T(t.w).f.a,i=j.b,h=j.a
-if(h>=2560)h=2560
+if(h>=2560)h=1920
 else if(h>=1920)h=1920
 else if(h>=1366)h=1366
 else if(h>=1024)h=1024
@@ -61818,13 +61818,13 @@ aD(){return new A.Nk([!1,!1,!1,!1],B.m)}}
 A.Nk.prototype={
 aM(){this.bb()},
 O(a1,a2){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d=this,c=null,b=a2.T(t.w).f.a,a=b.b,a0=b.a
-if(a0>=2560)s=2560
+if(a0>=2560)s=1920
 else if(a0>=1920)s=1920
 else if(a0>=1366)s=1366
 else s=a0>=1024?1024:a0
-r=s*0.01
+r=s*0.008
 q=A.fV(A.eW("Eduardo Dorador - "+B.d.az(a0),c,c,c,c),B.al)
-p=a*0.02
+p=a*0.0175
 o=d.d
 n=A.aF(A.fV(A.eW("About",c,A.fu(c,c,o[0]?B.dZ:B.k,c,c,c,c,c,c,c,c,c,c,c,c,c,!0,c,c,c,c,c,c,c,c),c,c),B.al),p,c)
 m=a*0.005
@@ -61902,7 +61902,7 @@ if(r!=null)A.wJ(r,0,B.cV,B.P,B.ae)},
 $S:0}
 A.DB.prototype={
 O(a,b){var s,r,q,p,o,n,m=null,l=b.T(t.w).f.a,k=l.b,j=l.a
-if(j>=2560)j=2560
+if(j>=2560)j=1920
 else if(j>=1920)j=1920
 else if(j>=1366)j=1366
 else if(j>=1024)j=1024
@@ -61926,7 +61926,7 @@ if(q!==this.e)this.e=q},
 m(a){this.b8(0)
 A.a(this.d,"_pageController").m(0)},
 O(a,a0){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e=this,d=null,c=a0.T(t.w).f.a,b=c.a
-if(b>=2560)b=2560
+if(b>=2560)b=1920
 else if(b>=1920)b=1920
 else if(b>=1366)b=1366
 else if(b>=1024)b=1024
